@@ -11,7 +11,7 @@ import RichTextInput from "ra-input-rich-text";
 
 import "quill/dist/quill.snow.css";
 
-import "quill-autobars";
+import "quill-handlebars";
 
 export const PostList = (props) => (
   <List bulkActionButtons={false} exporter={false} {...props}>
