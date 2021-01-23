@@ -9,7 +9,7 @@ import {
 } from "react-admin";
 import RichTextInput from "ra-input-rich-text";
 
-import "quill/dist/quill.snow.css";
+import "quill-handlebars/dist/quill.handlebars.css";
 
 import "quill-handlebars";
 
